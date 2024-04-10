@@ -12,3 +12,4 @@ C:\lucasFoguete\collegeTask_LP_tde3\obj\Debug\net8.0\refint\collegeTask_LP_tde3.
 C:\lucasFoguete\collegeTask_LP_tde3\obj\Debug\net8.0\collegeTask_LP_tde3.pdb
 C:\lucasFoguete\collegeTask_LP_tde3\obj\Debug\net8.0\collegeTask_LP_tde3.genruntimeconfig.cache
 C:\lucasFoguete\collegeTask_LP_tde3\obj\Debug\net8.0\ref\collegeTask_LP_tde3.dll
+C:\lucasFoguete\collegeTask_LP_tde3\obj\Debug\net8.0\collegeTask_LP_tde3.sourcelink.json
